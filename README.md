@@ -22,7 +22,7 @@ Following custom plugins are implemented to interact with native platform.
 
 
 ## Features
-This is an Ionic React. Following features are included:
+This is an Ionic React App. Following features are included:
 * Capacitor
 * View base Responsive Design
 * Redux
