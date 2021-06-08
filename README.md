@@ -11,13 +11,13 @@
 ## Custom Plugins for native API communication
 Following custom plugins are implemented to interact with native platform.
 
-<b>network-connection-type-plugin</b>
+# network-connection-type-plugin
 It provides the device connected network type. like WIFI, NON-WIFI
 
-<b>geolocation-plugin</b>
+# geolocation-plugin
 It fetch the current Location coordinates.
 
-<b>http-connection-plugin<b>
+# http-connection-plugin
 It makes a HTTP GET request to fetch the data.
 
 
