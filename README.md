@@ -9,7 +9,7 @@
 </p>
 
 ## Custom Plugins for native API communication
-Following custom custom plugins are implemented to interact with native platform.
+Following custom plugins are implemented to interact with native platform.
 
 <b>network-connection-type-plugin</b>
 It provides the device connected network type. like WIFI, NON-WIFI
