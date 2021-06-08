@@ -30,8 +30,6 @@ This is an Ionic React. Following features are included:
 * Netowrk Type
 * HTTP Rest API
 * GPS
-* Jest setup
-* Test cases
 
 
 
