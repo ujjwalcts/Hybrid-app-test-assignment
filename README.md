@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Weather Forecast APP</h3>
+<h1 align="center">Weather Forecast APP</h1>
 <p align="left">
  This app is displayed the weather Forecast report for the current location based on Geolocation coordinates. 
   The app is developed in Ionic React framework for Android a iOS. OpenWeatherMap weather API is used to fetch the
