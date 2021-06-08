@@ -35,7 +35,7 @@ This is an Ionic React. Following features are included:
 
 
 
-* **⚡️ Works with [Capacitor](https://capacitor.ionicframework.com/). ⚡️**
+*⚡️ Works with [Capacitor](https://capacitor.ionicframework.com/). ⚡️*
 
 ### Requirements :
 NodeV8.6  and rpmV5.6. it supports yarn swell
