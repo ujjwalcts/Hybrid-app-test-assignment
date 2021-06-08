@@ -12,13 +12,13 @@
 Following custom plugins are implemented to interact with native platform.
 
 #### network-connection-type-plugin
-It provides the device connected network type. like WIFI, NON-WIFI
+* It provides the device connected network type. like WIFI, NON-WIFI
 
 #### geolocation-plugin
-It fetch the current Location coordinates.
+* It fetch the current Location coordinates.
 
 #### http-connection-plugin
-It makes a HTTP GET request to fetch the data.
+* It makes a HTTP GET request to fetch the data.
 
 
 ## Features
