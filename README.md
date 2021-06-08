@@ -1,14 +1,14 @@
 
 
 <h3 align="center">Weather Forecast APP</h3>
-<p align="center">
+<p align="left">
  This app is displayed the weather Forecast report for the current location based on Geolocation coordinates. 
   The app is developed in Ionic React framework for Android a iOS. OpenWeatherMap weather API is used to fetch the
   Live data and persisted in local. User will receive the updated weather Forecast report for every 2 hours and WIFI
   connection & GPS enablement is mandated.
 </p>
 
-## Plugins for native API communication
+## CustomPlugins for native API communication
 Following custom custom plugins are implemented to interact with native platform.
 
 <b>network-connection-type-plugin</b>
