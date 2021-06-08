@@ -53,7 +53,7 @@ Java 8 JDK.Java 9 does not work at the moment.
 requires the Android SDK installed with Android Studio.
 Capacitor supports Android 5.0 (Lollipop) or above
 
-##Capacitor:
+## Capacitor:
 
 ### Install Ionic :
 
