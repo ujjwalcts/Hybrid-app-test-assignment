@@ -8,7 +8,7 @@
   connection & GPS enablement is mandated.
 </p>
 
-## CustomPlugins for native API communication
+## Custom Plugins for native API communication
 Following custom custom plugins are implemented to interact with native platform.
 
 <b>network-connection-type-plugin</b>
