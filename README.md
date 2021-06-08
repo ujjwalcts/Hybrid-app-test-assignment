@@ -18,7 +18,7 @@ Following custom plugins are implemented to interact with native platform.
 * It fetch the current Location coordinates.
 
 #### http-connection-plugin
-* It makes a HTTP GET request to fetch the data.
+* It makes a HTTP GET REST API call to fetch the data.
 
 
 ## Features
