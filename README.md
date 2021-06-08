@@ -33,7 +33,7 @@ This is an Ionic React. Following features are included:
 * Jest setup
 * Test cases
 
-Following the custom plugins are impleme
+
 
 * **⚡️ Works with [Capacitor](https://capacitor.ionicframework.com/). ⚡️**
 
@@ -109,6 +109,8 @@ npx cap copy :copy those changes down to your native projects.
  
 ```
 
+ 
+ 
 ### Future release update
 Following features will be included in next release
 * Weather forecast for next 7 days
