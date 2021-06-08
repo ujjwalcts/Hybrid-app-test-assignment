@@ -24,7 +24,7 @@ import { walk, locate, rainy, search, thumbsUp } from 'ionicons/icons';
 
 const Home: React.FC = (props: any) => {
 
-  const INTERVAL = 30000;//2*60*60*1000; //2 hours, time in milliseconds
+  const INTERVAL = 2*60*60*1000; //2 hours, time in milliseconds
   const appid = "5ad7218f2e11df834b0eaf3a33a39d2a";
 
   useIonViewWillEnter(async () => {
