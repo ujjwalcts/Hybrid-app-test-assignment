@@ -24,6 +24,7 @@
     "geolocation-plugin": "file:../plugins/geolocation-plugin",
     "http-connection-plugin": "file:../plugins/http-connection-plugin",
     "ionicons": "^5.4.0",
+    "jest": "^27.0.4",    
     "network-connection-type-plugin": "file:../plugins/network-connection-type-plugin",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
