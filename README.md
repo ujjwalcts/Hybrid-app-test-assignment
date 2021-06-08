@@ -101,13 +101,7 @@ ionic capacitor add <Platform(android, ios)>
 ionic capacitor build <platform>
  
 ```
-Syncing App
 
-**Every time performing build that changes you webdirectory ‘www’ or ‘build’.** 
-```
-npx cap copy :copy those changes down to your native projects.
- 
-```
 
  
  
