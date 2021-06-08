@@ -38,7 +38,7 @@ This is an Ionic React. Following features are included:
 *⚡️ Works with [Capacitor](https://capacitor.ionicframework.com/). ⚡️*
 
 ### Requirements :
-NodeV8.6  and rpmV5.6. it supports yarn swell
+NodeV8.6  and rpmV5.6. it supports yarn as well
 
 ### Platforms
 
@@ -59,7 +59,7 @@ Capacitor supports Android 5.0 (Lollipop) or above
 
 ** Install Global Ionic **
 ```
-Npm install ionic -g
+npm install ionic -g
 
 ```
 
