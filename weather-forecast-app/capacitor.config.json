@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "weather-forecast-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

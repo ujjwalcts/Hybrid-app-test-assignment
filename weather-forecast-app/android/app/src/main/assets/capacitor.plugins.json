@@ -1,0 +1,30 @@
+[
+	{
+		"pkg": "@capacitor/app",
+		"classpath": "com.capacitorjs.plugins.app.AppPlugin"
+	},
+	{
+		"pkg": "@capacitor/haptics",
+		"classpath": "com.capacitorjs.plugins.haptics.HapticsPlugin"
+	},
+	{
+		"pkg": "@capacitor/keyboard",
+		"classpath": "com.capacitorjs.plugins.keyboard.KeyboardPlugin"
+	},
+	{
+		"pkg": "@capacitor/status-bar",
+		"classpath": "com.capacitorjs.plugins.statusbar.StatusBarPlugin"
+	},
+	{
+		"pkg": "geolocation-plugin",
+		"classpath": "com.test.geolocation.GeolocationCoordinatesPlugin"
+	},
+	{
+		"pkg": "http-connection-plugin",
+		"classpath": "com.test.http.HttpPlugin"
+	},
+	{
+		"pkg": "network-connection-type-plugin",
+		"classpath": "com.test.network.ConnectionTypePlugin"
+	}
+]
